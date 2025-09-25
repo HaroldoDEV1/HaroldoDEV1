@@ -49,7 +49,7 @@ Scripts pessoais para automação de tarefas repetitivas em planilhas Excel/Goog
 
 ## 📊 Estatísticas do GitHub
 
-![Haroldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+![Haroldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaroldoDEV1&show_icons=true&theme=radical)
 
 ---
 
