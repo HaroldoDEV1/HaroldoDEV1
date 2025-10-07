@@ -29,6 +29,7 @@ Sou um profissional em transição de carreira, com formação técnica em **Inf
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
 ---
 
 ## 📂 Projetos em Destaque
